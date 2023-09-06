@@ -1,0 +1,1 @@
+### Exemplo Código sobre Importância de Logs.

@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": "*",
+        "madeiramadeirabr/lib-php-logger": "^1.0"
+    },
+    "repositories": {
+        "lib-php-logger": {
+            "type": "git",
+            "url": "git@github.com:madeiramadeirabr/lib-php-logger.git"
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+     }
+}
